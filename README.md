@@ -12,8 +12,6 @@
 - Axios for making HTTP requests to the Marvel API
 - Marvel API: The Marvel API provides access to a wealth of information about Marvel characters, comics, and events, which is utilized to populate the website with content.
 
-## Installation and Setup
-
 
 
 ## Credits
