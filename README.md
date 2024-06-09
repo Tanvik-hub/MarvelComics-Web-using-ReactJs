@@ -17,7 +17,7 @@
 
 
 ## Credits
-This project was created by me as a personal project to learn more about web development and APIs. The website design and concept are inspired by the Marvel Comics universe.
+This project was created by me as a personal project to learn more about web development and APIs. The website design and concept are inspired by the Marvel Comics universe and i am a fan of marvel.
 
 ## License
 This project is licensed under the MIT License
