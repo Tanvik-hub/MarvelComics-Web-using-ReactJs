@@ -2,7 +2,7 @@
 
 **Marvel Comics Website** is a web application that allows users to explore and discover information about Marvel comic book characters. The website utilizes the Marvel API to fetch data about Marvel characters and display them in an interactive and user-friendly interface.
 
-- you can view the website here= https://marvel-comics-web-using-react-js.vercel.app/
+
 
 ## Features
 - Search for Marvel characters by name
