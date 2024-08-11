@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react'
 import Card from './Card'
 import axios from 'axios'
 const Main = () => {
-    const [url,seturl]=useState("https://gateway.marvel.com/v1/public/characters?ts=1&apikey=2e1cdeec426ae323484f29024084c206&hash=d516513ba95b9407c7aca0f73b241f8a")
+    const [url,seturl]=useState("https://gateway.marvel.com/v1/public/characters?ts=1&apikey=df366020b9995cd6ff3af88219a2ed8e&hash=d516513ba95b9407c7aca0f73b241f8a")
     const [item,setitem]=useState();
     const [search,setSearch]=useState("");
 
@@ -18,7 +18,7 @@ const Main = () => {
 
     },[url])
     const searchMarvel=()=>{
-        seturl(`https://gateway.marvel.com:443/v1/public/characters?nameStartsWith=${search}&ts=1&apikey=2e1cdeec426ae323484f29024084c206&hash=d516513ba95b9407c7aca0f73b241f8a`)
+        seturl(`https://gateway.marvel.com:443/v1/public/characters?nameStartsWith=${search}&ts=1&apikey=df366020b9995cd6ff3af88219a2ed8e&hash=d516513ba95b9407c7aca0f73b241f8a`)
       }
       return (
         <>
